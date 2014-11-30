@@ -2,25 +2,43 @@ PART I
 DEFINITIONS AND INTERPRETATION
 
 __Definitions and interpretation__
+
 1.  (1)  In this Act,
-“annual general meeting” means a meeting of the owners of a corporation held in accordance with subsection 45 (2); (“assemblée générale annuelle”)
+
+“annual general meeting” means a meeting of the owners of a corporation held in accordance with subsection 45 (2);
+
 “approval authority” means the approval authority for the purposes of sections 51, 51.1 and 51.2 of the Planning Act; (“autorité approbatrice”)
+
 “auditor” means a person licensed as a public accountant under the Public Accounting Act, 2004 who is appointed as an auditor of a corporation under section 60; (“vérificateur”)
+
 “board” means the board of directors of a corporation; (“conseil”)
+
 “building” means a building included in a property; (“bâtiment”)
+
 “by-law” means a by-law of a corporation; (“règlement administratif”)
+
 “claim” includes a right, title, interest, encumbrance or demand of any kind affecting land but does not include the interest of an owner in the owner’s unit or common interest; (“réclamation”)
+
 “common elements” means all the property except the units; (“parties communes”)
+
 “common elements condominium corporation” means a common elements condominium corporation described in subsection 138 (2); (“association condominiale de parties communes”)
+
 “common expenses” means the expenses related to the performance of the objects and duties of a corporation and all expenses specified as common expenses in this Act or in a declaration; (“dépenses communes”)
+
 “common interest” means the interest in the common elements appurtenant to,
 (a) a unit, in the case of all corporations except a common elements condominium corporation, or
 (b) an owner’s parcel of land to which the common interest is attached and which is described in the declaration, in the case of a common elements condominium corporation; (“intérêt commun”)
+
 “common surplus” means the excess of all receipts of the corporation over the expenses of the corporation; (“excédent commun”)
+
 “corporation” means a corporation created or continued under this Act; (“association”)
+
 “declarant” means a person who owns the freehold or leasehold estate in the land described in the description and who registers a declaration and description under this Act, and includes a successor or assignee of that person but does not include a purchaser in good faith of a unit who pays fair market value or a successor or assignee of the purchaser; (“déclarant”)
+
 “declaration” means a declaration registered under section 2 and all amendments to the declaration; (“déclaration”)
+
 “deed” includes a transfer under the Land Titles Act; (“acte scellé”)
+
 “description” means a description registered under section 2 and all amendments to the description; (“description”)
 Note: On a day to be named by proclamation of the Lieutenant Governor, subsection (1) is amended by adding the following definition:
 
